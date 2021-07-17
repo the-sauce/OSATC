@@ -80,4 +80,4 @@ This shows how at least some observations as described in this model must have _
 Thus these behaviors and relationships of observers, perspective and subjectivity should not be accepted as arguments against (classical) physicalism but to the contrary, as something predicted by it.  
   
 This entire paper summarized in plain words:  
-__Hitting your thumb with a hammer hurts in a way merely thinking about it does not. This relationship is obvious, is predicted by our physicalist understanding of the world and cannot reasonably understood or be used as an attack on physicalism.__  
+__Hitting your thumb with a hammer hurts in a way merely thinking about it does not. This relationship is obvious, is predicted by our physicalist understanding of the world and cannot reasonably be understood or be used as an attack on physicalism.__  
