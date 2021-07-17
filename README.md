@@ -77,4 +77,7 @@ This is an accurate representation of what happens when she finally leaves her b
 We note that `*W in Os'` stays unchanged by the observation `Mred`, which means Mary has not gained any new knowledge. This is exactly what we would expect, as her knowledge by constraint was already complete.
 However, we also notice that Mary 'experiences' a change of her hidden state from `Hs to Hs'`, something she was able to functionally predict and describe, but not able to actually access by merely representing that process in her world-model.
 This shows how at least some observations as described in this model must have _subjective qualities_ that are not accessed or not accessible by reasoning or communicating about them.
-Thus these behaviors and relationships of observers, perspective and subjectivity should not be accepted as arguments against (classical) physicalism but to the contrary, as something predicted by it.
+Thus these behaviors and relationships of observers, perspective and subjectivity should not be accepted as arguments against (classical) physicalism but to the contrary, as something predicted by it.  
+  
+This entire paper summarized in plain words:  
+__Hitting your thumb with a hammer hurts in a way merely thinking about it does not. This relationship is obvious, is predicted by our physicalist understanding of the world and cannot reasonably understood or be used as an attack on physicalism.__  
