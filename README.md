@@ -55,8 +55,14 @@ An intelligent observer is a _self-aware observer_ if his world-model includes a
 #### Note I.SR
 A self-aware observer is in general more intelligent because he can make predictions about himself.  
 
+### Theorem of the Experiential Category
+Some observations (experiences) have unique qualities that
+__EC.1__ cannot be accessed by other means than a specific observation (message).
+See example __E1__ for a proof.
+__EC.2__ cannot be directly communicated.
+
 ## Example
-### Applying this model to the argument of Mary's room.
+### E1. Applying this model to the argument of Mary's room.
 
 [Introduction to the argument of Mary's room](https://en.wikipedia.org/wiki/Knowledge_argument).
 
@@ -79,4 +85,4 @@ The change she expects on seeing the color red is a change to her own observer s
 
 We note that while she predicts a change of her hidden state `*Hs → *Hs'`, her actual hidden state `Hs` is not affected that way by her prediction. This change only manifests once she is actually seeing the color red. This means that there is a brain state associated with seeing the color red that she knows about and can functionally predict and destribe, but cannot reach (experience) without actually observing the color red.
 
-Thinking about a brain state is different from experiencing (accessing) them.
+Thinking about a brain state is different from experiencing (accessing) it.
