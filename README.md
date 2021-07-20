@@ -1,7 +1,7 @@
 # Observer State Access Theory of Consciousness
 
 ## Introduction
-    // work in progress
+This is a work in progress which attempts to demonstrate that important observations attributed to certain phenomena of the mind like experience and consciousness can be predicted or explained by relatively simple functional models of the relationships between an observer, his environment and himself.
 
 ## The Model
 
