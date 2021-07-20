@@ -60,21 +60,23 @@ A self-aware observer is in general more intelligent because he can make predict
 
 [Introduction to the argument of Mary's room](https://en.wikipedia.org/wiki/Knowledge_argument).
 
-Mary is a self-aware observer with complete knowledge, which means she has an accurate world-model and thus can simulate herself seeing the color red by  
-
-    obs(Os, M°) = Os'
-    obs((*W, Hs), M°) = (*W', Hs)
-    obs(((*Ws, *evt), Hs), M°) = ((*Ws', *evt), Hs)
-    obs((((*Os, *Es), (*obs, *eevt)), Hs), M°) = (((*Os', *Es), (*obs, *eevt)), Hs)
-    obs(((((**W, *Hs), *Es), (*obs, *eevt)), Hs), M°) = ((((**W, *Hs'), *Es), (*obs, *eevt)), Hs)
-with `(**W, *Hs') = *obs((**W, *Hs), *Mred)` where `*Mred = *m(*Os, *Es)`.  
+Mary is a self-aware observer `(*W, Hs)` with complete knowledge, which means her `*W ≙ W`.
+We assume that when she finally leaves her room and sees the color red (message `Mred`), her observer state `Os` is affected in some way:  
+`obs(Os, Mred) = Os'`  
+Because her `*W` is already accurate, this implies a change to her inner state:  
+`obs((*W, Hs), Mred) = (*W, Hs')`.  
+Something in herself has changed, something that cannot be part of any knowledge that can be transmitted through a black and white television.  
   
-This is an accurate representation of what happens when she finally leaves her black and white world and sees the color red:  
+We can compare this process to what happened when she was merely thinking about this process, before she had left her room.  
+We can model her observation as a thought, because we don't require a message:  
+`obs(Os, M°) = Os'`  
+She is making a prediction, so we can describe what happens as a simulated change of world state:  
+`obs((*W, Hs), M°) = (*W', Hs)`  
+`obs(((*Ws, *evt), Hs), M°) = ((*Ws', *evt), Hs)`  
+The change she expects on seeing the color red is a change to her own observer state, but not to her world model, which is an accurate representation of what happens when she leaves her room:  
+`obs((((*Os, *Es), (*obs, *eevt)), Hs), M°) = (((*Os', *Es), (*obs, *eevt)), Hs)`  
+`obs(((((**W, *Hs), *Es), (*obs, *eevt)), Hs), M°) = ((((**W, *Hs'), *Es), (*obs, *eevt)), Hs)`  
 
-    obs(Os, Mred) = Os'
-    obs((*W, Hs), Mred) = (*W, Hs')
+We note that while she predicts a change of her hidden state `*Hs → *Hs'`, her actual hidden state `Hs` is not affected that way by her prediction. This change only manifests once she is actually seeing the color red. This means that there is a brain state associated with seeing the color red that she knows about and can functionally predict and destribe, but cannot reach (experience) without actually observing the color red.
 
-We note that `*W in Os'` stays unchanged by the observation `Mred`, which means Mary has not gained any new knowledge. This is exactly what we would expect, as her knowledge by constraint was already complete.
-However, we also notice that Mary 'experiences' a change of her hidden state from `Hs to Hs'`, something she was able to functionally predict and describe, but not able to actually access by merely representing that process in her world-model.
-This shows how at least some observations as described in this model must have _subjective qualities_ that are not accessed or not accessible by reasoning or communicating about them.
-Thus these behaviors and relationships of observers, perspective and subjectivity should not be accepted as arguments against (classical) physicalism but to the contrary, as something predicted by it.
+Thinking about a brain state is different from experiencing (accessing it).
