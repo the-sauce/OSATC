@@ -79,4 +79,4 @@ The change she expects on seeing the color red is a change to her own observer s
 
 We note that while she predicts a change of her hidden state `*Hs → *Hs'`, her actual hidden state `Hs` is not affected that way by her prediction. This change only manifests once she is actually seeing the color red. This means that there is a brain state associated with seeing the color red that she knows about and can functionally predict and destribe, but cannot reach (experience) without actually observing the color red.
 
-Thinking about a brain state is different from experiencing (accessing it).
+Thinking about a brain state is different from experiencing (accessing) them.
